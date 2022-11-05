@@ -7,3 +7,5 @@ git clone https://github.com/michavardy/TicTacToe
 cd TicTacToe
 npm start
 ```
+## ScreenShot
+![screenShot]("./screenShot.PNG")
