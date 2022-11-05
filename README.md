@@ -1,4 +1,4 @@
-# REACT SETUP SCRIPT
+# TicTacToe
 simple tic tac toe made with useReducer
 
 ## Use
