@@ -8,4 +8,4 @@ cd TicTacToe
 npm start
 ```
 ## ScreenShot
-![screenShot]("./screenShot.PNG")
+![screenShot](screenShot.PNG)
