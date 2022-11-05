@@ -2,5 +2,8 @@
 simple tic tac toe made with useReducer
 
 ## Use
-clone github
+```
+git clone https://github.com/michavardy/TicTacToe
+cd TicTacToe
 npm start
+```
